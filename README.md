@@ -1,17 +1,17 @@
-##Object-Oriented Programming 
+## Object-Oriented Programming 
 
-* ###Classes
+* ### Classes
         A class is the blueprint from which individual objects are created. 
         In object-oriented terms, we say that your object is an instance of the class.
 
-* ###Objects
+* ### Objects
         Real-world objects share two characteristics: They all have state and behavior.
         For each object that you see, ask yourself two questions: 
         
         1: What possible states can this object be in?
         2: What possible behavior can this object perform?.
 
-* ###Access Modifiers
+* ### Access Modifiers
         Access level modifiers determine whether other classes can use a particular
         field or invoke a particular method.
     
@@ -22,14 +22,14 @@
      ![Modifier Image](https://miro.medium.com/max/1200/1*GKGirEJ5-PaSz2bzGlRTjw.png)            
             
 
-* ###Encapsulation
+* ### Encapsulation
         Encapsulation normally hide states and present behavior to communicate with the outside world
         
         1: bind the data            
         2: methods to manipulate that data together in a single unit (class).
         
         
-* ###Inheritance
+* ### Inheritance
         Inheritance commonly used state and behavior from other subclass
         Inheritance IS A relationship between objects
         Class that is derived from another class is called a subclass
@@ -57,13 +57,13 @@
         2: Avoiding Duplication of Code you don’t need to duplicate the code
         
 
-* ###Polymorphism
+* ### Polymorphism
         1: Polymorphism is a combination of two Greek words, Poly means many and Morph means forms.
         2: In programming it refers to the same object exhibiting different forms and behaviors.
         
      ![Polymorphism](https://dkb46014en6d6.cloudfront.net/tutorials/wp-content/uploads/sites/2/2020/02/example-of-polymorphism-in-java.jpg)       
      
-* ###Abstraction & Interfaces
+* ### Abstraction & Interfaces
         Abstraction in Object-Oriented Programming refers to showing only the essential features of an object
         to the user and hiding the inner details to reduce complexity. It can be put this way that
         the user only has to know “what an object does?” rather than “how it does?”.
@@ -77,7 +77,7 @@
         1: Abstract Classes
         2: Interfaces
         
-* ###Composition, Aggregation and Association
+* ### Composition, Aggregation and Association
        
     **Association** 
         
